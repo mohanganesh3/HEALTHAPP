@@ -1,5 +1,15 @@
 #  HEALTHAPP  
 **HEALTHAPP** is an AI-powered nutritionist assistant that helps users calculate the total calorie content of food items in an image. By uploading an image of food, the app uses the **Gemini** API to analyze the content and provide detailed information about each food item along with its calorie count.  
+## 🎬 Demo  
+You can see a demo of the **Gemini Health App** in action below:
+<img width="629" alt="Screenshot 2024-12-12 at 11 28 47 AM" src="https://github.com/user-attachments/assets/a93c8008-46a2-4b0e-bf93-e8eb3b293fce" />
+
+1. **Upload Food Image**: Upload an image of food items you want to analyze.  
+2. **Ask Questions**: Type a question like "Tell me the total calories" or "What are the food items?"  
+<img width="689" alt="Screenshot 2024-12-12 at 11 33 09 AM" src="https://github.com/user-attachments/assets/440e410c-e9e9-4dd5-b2dd-25063c6ca78d" />
+
+3. **AI Response**: Get an instant response with the details of each food item and their calorie counts.
+<img width="604" alt="Screenshot 2024-12-12 at 11 33 23 AM" src="https://github.com/user-attachments/assets/e5498b9f-b44c-4e89-b5cd-71bc2f7e8401" />
 
 ## 🌟 Features  
 - **📸 Food Image Recognition**: Upload food images (JPEG, PNG, JPG).  
