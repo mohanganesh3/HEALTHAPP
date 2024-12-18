@@ -1,5 +1,5 @@
-#  HEALTHAPP  
-**HEALTHAPP** is an AI-powered nutritionist assistant that helps users calculate the total calorie content of food items in an image. By uploading an image of food, the app uses the **Gemini** API to analyze the content and provide detailed information about each food item along with its calorie count.  
+#  CalorieMate: AI-Powered Nutrition Assistant 
+**CalorieMate** is an AI-powered nutritionist assistant that helps users calculate the total calorie content of food items in an image. By uploading an image of food, the app uses the **Gemini** API to analyze the content and provide detailed information about each food item along with its calorie count.  
 ## 🎬 Demo  
 You can see a demo of the **Gemini Health App** in action below:
 <img width="629" alt="Screenshot 2024-12-12 at 11 28 47 AM" src="https://github.com/user-attachments/assets/a93c8008-46a2-4b0e-bf93-e8eb3b293fce" />
